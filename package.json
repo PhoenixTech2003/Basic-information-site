@@ -1,0 +1,23 @@
+{
+  "name": "basic-information-site",
+  "version": "1.0.0",
+  "description": "This is a basic information site created with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoenixTech2003/Basic-information-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoenixTech2003/Basic-information-site/issues"
+  },
+  "homepage": "https://github.com/PhoenixTech2003/Basic-information-site#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
